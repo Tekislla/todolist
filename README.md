@@ -1,2 +1,2 @@
 # todolist
-lista de tarefas
+lista de afazeres
